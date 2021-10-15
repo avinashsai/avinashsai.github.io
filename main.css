@@ -1,0 +1,137 @@
+@font-face {
+    font-family: "Lato";
+    src: url("fonts/Lato-Italic.ttf");
+    font-weight: italic;
+}
+
+@font-face {
+    font-family: "Lato";
+    src: url("fonts/Lato-Black.ttf");
+    font-weight: black;
+}
+
+@font-face {
+    font-family: "Lato";
+    src: url("fonts/Lato-Bold.ttf");
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "Lato";
+    src: url("fonts/Lato-Regular.ttf");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "Pacifico";
+    src: url("fonts/Pacifico-Regular.ttf");
+}
+
+ul {
+    padding-left: 1.2rem;
+}
+
+.profile-pic {
+    border-style: solid;
+    border-color: #FF9900;
+    border-radius: 50%;
+    max-width: 100%;
+    height: auto;
+    width: 100%;
+}
+
+.portrait_image {
+    height: 150px;
+    width: 150px;
+}
+.news {
+	width: 100%;
+	border-style: inherit;
+	border-collapse: collapse;
+}
+
+newstitle {
+	font-weight: bold;
+}
+
+em {
+    font-weight: italic;
+}
+img {
+	border-radius: 1.5%;
+}
+a {
+    color: #0066CC;
+    text-decoration: none;
+}
+a:focus, a:hover {
+    color: #FF9900;
+    text-decoration:underline;
+}
+a:visited {
+    color: purple;
+    text-decoration: none;
+}
+
+body,td,th,tr,strong {
+	font-family: Lato, sans-serif;
+	font-size: 0.90rem;
+	color: #232F3E;
+	margin-block-start: 1rem;
+	margin-block-end: 1rem;
+	margin-inline-start: 0px;
+	margin-inline-end: 0px;
+}
+
+li {
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+heading {
+    font-family: Lato, sans-serif;
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: #232F3E;
+}
+emphasis {
+    font-family: Pacifico;
+}
+papertitle {
+    font-family: Lato, sans-serif;
+    font-weight: 700;
+    text-decoration: none;
+}
+name {
+	font-family: Lato, Lato, sans-serif;
+	font-size: 2rem;
+	font-weight: 700;
+	color: #232F3E;
+}
+quote {
+    font-style: italic;
+    font-size: 0.80rem;
+}
+foot {
+    font-size: 0.80rem;
+}
+.one
+{
+    width: 150px;
+    height: 150px;
+    position: relative;
+}
+.two
+{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    transition: opacity .2s ease-in-out;
+    -moz-transition: opacity .2s ease-in-out;
+    -webkit-transition: opacity .2s ease-in-out;
+}
+.fade {
+   transition: opacity .2s ease-in-out;
+   -moz-transition: opacity .2s ease-in-out;
+   -webkit-transition: opacity .2s ease-in-out;
+}
