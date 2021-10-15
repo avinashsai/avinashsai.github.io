@@ -95,7 +95,8 @@
   </tr>
 </table>
 
-<table cellspacing="10">
+<table id="publications" width="100%" align="center" border="0" border-spacing="0" border-collapse="separate"
+          cellspacing="0" cellpadding="20">
 <tr>
   <td width="25%"><img src="papers/icpr20/ewc.PNG" alt="3DSP" width="160" height="120" style="border-style: none">
     <td valign="top" width="75%">
@@ -110,12 +111,8 @@ Elastic Weight Consolidation for Sentiment Analysis</papertitle>
     <em>ICPR</em>, 2020 <br>
     <a href="https://arxiv.org/pdf/2007.01189.pdf">arxiv</a>
     <br>
-	Elastic Weight Consolidation (EWC) is a technique used in overcoming catastrophic forgetting between successive tasks trained on a neural network. We use this phenomenon of information sharing between tasks for domain adaptation.
-Training data for tasks such as sentiment analysis (SA) may not be fairly represented across multiple domains. Domain Adaptation (DA) aims to build algorithms that leverage information
-from source domains to facilitate performance on an unseen target domain. We propose a model-independent framework - Sequential Domain Adaptation (SDA). SDA draws on EWC for training on successive source domains to move towards a general domain solution, thereby solving the problem of
-domain adaptation. We test SDA on convolutional, recurrent, and attention-based architectures. Our experiments show that
-the proposed framework enables simple architectures such as CNNs to outperform complex state-of-the-art models in domain
-adaptation of SA. In addition, we observe that the effectiveness of a harder first Anti-Curriculum ordering of source domains leads to maximum performance.
+	We present a anti-curriculum based sequential domain adaptation. The sequential domain adaptation is trained elastic weight consolidation. 
+	The proposed approach outperformed previous SOTA architectures and the training time is very less compared to previous methods. It is also architecture agnostic.
   </td>
 </tr>
 
@@ -132,10 +129,9 @@ adaptation of SA. In addition, we observe that the effectiveness of a harder fir
     <em>NLDB</em>, 2020 <br>
     <a href="https://arxiv.org/pdf/2005.01027.pdf">arxiv</a>
     <br>
-	Aspect Based Sentiment Analysis (ABSA) is the task of identifying sentiment polarity of a text given another text segment or aspect. In ABSA, a text can have multiple sentiments depending upon each aspect. Aspect Term Sentiment Analysis (ATSA) is a subtask of ABSA, in which aspect terms are contained within the given sentence. Most of the existing approaches proposed for ATSA,
-incorporate aspect information through a different subnetwork thereby overlooking the advantage of aspect terms’ presence within the sentence. In this paper, we propose a model that leverages the positional information of the aspect. The proposed model introduces a decay mechanism based on position. This decay function mandates the contribution of input words for ABSA. The contribution of a
-word declines as farther it is positioned from the aspect terms in the sentence. The performance is measured on two standard datasets from SemEval 2014 Task 4. In comparison with recent architectures, the effectiveness of the proposed model is demonstrated.
-  </td>
+	We propose a model that leverages the positional information of the aspect. The proposed model introduces a decay mechanism based on position. 
+	    This decay function mandates the contribution of input words for ABSA. The performance is measured on two standard datasets from SemEval 2014 Task 4.
+</td>
 </tr>
 
 <tr>
@@ -151,11 +147,9 @@ word declines as farther it is positioned from the aspect terms in the sentence.
     <em>ELMLP</em>, 2019 <br>
     <a href="https://arxiv.org/pdf/1909.00080.pdf">arxiv</a>
     <br>
-	Text classification has been one of the major problems in natural language processing.With the advent of deep learning, convolutional neural network (CNN) has been a popular solution to this task. However, CNNs
-which were first proposed for images, face many crucial challenges in the context of text processing, namely in their elementary blocks: convolution filters and max pooling. These challenges have largely been overlooked by the most existing CNN models proposed for text classification. In this paper, we present an experimental study on the fundamental blocks of CNNs in text categorization.
-Based on this critique, we propose Sequential Convolutional Attentive Recurrent Network (SCARN). The proposed SCARN model utilizes both the advantages of recurrent and
-convolutional structures efficiently in comparison to previously proposed recurrent convolutional models. We test our model on different text classification datasets across tasks like
-sentiment analysis and question classification. Extensive experiments establish that SCARN outperforms other recurrent convolutional architectures with significantly less parameters. Furthermore, SCARN achieves better performance compared to equally large various deep CNN and LSTM architectures  </td>
+	We propose a Sequential Convolutional Attentive Recurrent Network (SCARN). The proposed SCARN model utilizes both the advantages of recurrent and
+convolutional structures efficiently in comparison to previously proposed recurrent convolutional models. Extensive experiments establish that SCARN outperforms other recurrent convolutional architectures with significantly less parameters. 
+	    Furthermore, SCARN achieves better performance compared to equally large various deep CNN and LSTM architectures  </td>
 </td>
 </tr>
 
@@ -172,9 +166,8 @@ sentiment analysis and question classification. Extensive experiments establish 
     <em>Multimedia Tools and Applications</em>, 2019 <br>
     <a href="https://arxiv.org/pdf/1911.00288.pdf">arxiv</a>
     <br>
-	Sentiment analysis is a domain of study that focuses on identifying and classifying the ideas expressed in the form of text into positive, negative and neutral polarities. Feature selection is a crucial process in machine learning. In this paper, we aim to study the performance of different feature selection techniques for sentiment analysis. Term Frequency Inverse Document Frequency (TF-IDF) is used as the feature extraction technique for creating feature vocabulary. Various Feature Selection (FS) techniques are experimented to select the best set of features from feature vocabulary. The selected features are trained using different machine learning classifiers
-Logistic Regression (LR), Support Vector Machines (SVM), Decision Tree (DT) and Naive Bayes (NB). Ensemble techniques Bagging and Random Subspace are applied on classifiers to enhance the performance on sentiment analysis. We show that, when
-the best FS techniques are trained using ensemble methods achieve remarkable results on sentiment analysis. We also compare the performance of FS methods trained using Bagging, Random Subspace with varied neural network architectures. We show that FS techniques trained using ensemble classifiers outperform neural networks requiring significantly less training time and parameters thereby eliminating the need for extensive hyper-parameter tuning.
+	 In this paper, we aim to study the performance of different feature selection techniques for sentiment analysis. Various Feature Selection (FS) techniques are experimented to select the best set of features from feature vocabulary. The selected features are trained using different machine learning classifiers.
+ Ensemble techniques are applied on classifiers to enhance the performance on sentiment analysis. We show that, when the best FS techniques are trained using ensemble methods achieve remarkable results on sentiment analysis and outperforms neural networks.
 </td>
 </tr>
 
@@ -191,11 +184,8 @@ the best FS techniques are trained using ensemble methods achieve remarkable res
     <em>NLDB</em>, 2019 <br>
     <a href="https://arxiv.org/pdf/1905.06906.pdf">arxiv</a>
     <br>
-	Domain Adaptation explores the idea of how to maximize performance on a target domain, distinct from source domain, upon which the classifier was trained. This idea has been explored for the
-task of sentiment analysis extensively. The training of reviews pertaining to one domain and evaluation on another domain is widely studied for modeling a domain independent algorithm. This further helps in understanding co-relation between domains. In this paper, we show that Gated Convolutional Neural Networks (GCN) perform effectively at learning
-sentiment analysis in a manner where domain dependant knowledge is filtered out using its gates. We perform our experiments on multiple gate architectures: Gated Tanh ReLU Unit (GTRU), Gated Tanh Unit (GTU) and Gated Linear Unit (GLU). Extensive experimentation on two
-standard datasets relevant to the task, reveal that training with Gated Convolutional Neural Networks give significantly better performance on target domains than regular convolution and recurrent based architectures. While complex architectures like attention, filter domain specific
-knowledge as well, their complexity order is remarkably high as compared to gated architectures. GCNs rely on convolution hence gaining an upper hand through parallelization.
+	 In this paper, we propose Gated CNN for domain adaptation in sentiment analysis. We perform our experiments on multiple gate architectures: Gated Tanh ReLU Unit (GTRU), Gated Tanh Unit (GTU) and Gated Linear Unit (GLU). Extensive experimentation on two
+standard datasets reveal that training with Gated Convolutional Neural Networks give significantly better performance on target domains than regular convolution and recurrent based architectures. 
 </td>
 </tr>
 
@@ -212,10 +202,7 @@ knowledge as well, their complexity order is remarkably high as compared to gate
     <em>CICLing</em>, 2019 <br>
     <a href="https://arxiv.org/pdf/1905.01338.pdf">arxiv</a>
     <br>
-	Self Normalizing Neural Networks(SNN) proposed on Feed Forward Neural Networks(FNN) outperform regular FNN architectures in various machine learning tasks. Particularly in the domain of Computer Vision, the activation function Scaled Exponential Linear Units
-(SELU) proposed for SNNs, perform better than other non linear activations such as ReLU. The goal of SNN is to produce a normalized output for a normalized input. Established neural network architectures like feed
-forward networks and Convolutional Neural Networks(CNN) lack the intrinsic nature of normalizing outputs. Hence, requiring additional layers such as Batch Normalization. Despite the success of SNNs, their characteristic features on other network architectures like CNN haven’t been explored, especially in the domain of Natural Language Processing. In
-this paper we aim to show the effectiveness of proposed, Self Normalizing Convolutional Neural Networks(SCNN) on text classification. We analyze their performance with the standard CNN architecture used on several text classification datasets. Our experiments demonstrate that
+	 In this paper we aim to show the effectiveness of proposed, Self Normalizing Convolutional Neural Networks(SCNN) on text classification. We analyze their performance with the standard CNN architecture used on several text classification datasets. Our experiments demonstrate that
 SCNN achieves comparable results to standard CNN model with significantly fewer parameters. Furthermore it also outperforms CNN with equal number of parameters.
 </td>
 </tr>
@@ -233,11 +220,7 @@ SCNN achieves comparable results to standard CNN model with significantly fewer 
     <em>IEMIS</em>, 2018 <br>
     <a href="https://arxiv.org/pdf/1906.01573.pdf">arxiv</a>
     <br>
-	Sentiment Analysis refers to the study of systematically extracting the meaning of subjective text . When analysing sentiments from the subjective text using Machine Learning techniques,feature extraction becomes a significant part. We
-perform a study on the performance of feature extraction techniques TF-IDF(Term Frequency-Inverse Document Frequency) and Doc2vec (Document to Vector) using Cornell movie review datasets, UCI sentiment labeled datasets, stanford movie
-review datasets,effectively classifying the text into positive and negative polarities by using various pre-processing methods like eliminating Stop Words and Tokenization which increases the performance of sentiment analysis in terms of accuracy and
-time taken by the classifier.The features obtained after applying feature extraction techniques on the text sentences are trained and tested using the classifiers Logistic Regression,Support Vector Machines,K-Nearest Neighbours , Decision Tree and Bernoulli Nave Bayes.
-</td>
+ We perform a study on the performance of unsupervised feature extraction techniques TF-IDF  and Paragraph2Vec for sentiment classification.
 </tr>
 
 </table>
