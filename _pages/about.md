@@ -29,7 +29,3 @@ I am a staff research scientist at Intel AI Labs working on multi-modal AI. I gr
 I was a senior engineer at Samsung R & D Institute India - Bangalore, for 3 years where I worked on Bixby (Samsung's voice assistant). My job was to design NLU models to help improve Bixby. I had the opportunity to work under [Prof. Asif Eqbal](https://www.asifekbal.com/) on multi-modal dialog systems. I graduated from [National Institute of Technology Tiruchirappalli](https://www.nitt.edu/) with Bachelors in Computer Science. While pursuing UG studies, I worked closely with [Prof. Sivasankar](https://www.nitt.edu/home/academics/departments/cse/faculty/sivas/) on statistical feature extraction techniques for sentiment analysis.
 
 I am interested in contributing to open source frameworks that empower neural networks. I was also a member of [Distributed Deep Machine Learning Community](https://github.com/dmlc") and reviewer of [[gluonnlp](https://nlp.gluon.ai/), Amazon's NLP library.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
