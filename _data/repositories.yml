@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - avinashsai
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - dmlc/gluon-nlp
+  - IntelLabs/multimodal_cognitive_ai
+  - avinashsai/BERT-Aspect
+  - avinashsai/NILM
+  - avinashsai/Attention-based-CNN-for-sentence-classification
+  - ibrahimsharaf/doc2vec
+  - avinashsai/pytorch_cpp
