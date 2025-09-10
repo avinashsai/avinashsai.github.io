@@ -7,6 +7,7 @@ github_repos:
   - dmlc/gluon-nlp
   - IntelLabs/multimodal_cognitive_ai
   - avinashsai/BERT-Aspect
+  - jettify/pytorch-optimizer
   - avinashsai/NILM
   - avinashsai/Attention-based-CNN-for-sentence-classification
   - ibrahimsharaf/doc2vec
