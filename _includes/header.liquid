@@ -56,7 +56,6 @@
             </a>
           </li>
 
-          {% comment %}
           <!-- Other pages -->
           {% assign sorted_pages = site.pages | sort: 'nav_order' %}
           {% for p in sorted_pages %}
@@ -118,7 +117,6 @@
               {% endif %}
             {% endif %}
           {% endfor %}
-          {% endcomment %}
           {% comment %}
           {% if site.search_enabled %}
             <!-- Search -->
