@@ -117,6 +117,7 @@
               {% endif %}
             {% endif %}
           {% endfor %}
+          {% comment %}
           {% if site.search_enabled %}
             <!-- Search -->
             <li class="nav-item">
@@ -125,6 +126,7 @@
               </button>
             </li>
           {% endif %}
+          {% endcomment %}
           {% if site.enable_darkmode %}
             <!-- Toogle theme mode -->
             <li class="toggle-container">
