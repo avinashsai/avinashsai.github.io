@@ -287,6 +287,7 @@ scholar:
   query: "@*"
   group_by: year
   group_order: descending
+  highlight_name: true
 
 # Display different badges withs stats for your publications
 # Customize badge behavior in _layouts/bib.liquid
