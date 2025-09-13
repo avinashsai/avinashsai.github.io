@@ -54,7 +54,7 @@
 - title: Honors and Awards
   type: list
   contents:
-    - <a href="https://2023.aclweb.org/reviewers/" style="color: pink;"><strong>Outstanding reviewer - ACL 2023</strong></a>
+    - <a href="https://2023.aclweb.org/reviewers/" style="font-weight: bold; color: #ff69b4;">Outstanding reviewer - ACL 2023</a>
     - Best Student Paper Award - ECIR 2023
     - Samsung Citizen Award 2019, 2020 (Research) (4/9000)
     - ACM grant to attend ACM Multimedia 2022 conference
