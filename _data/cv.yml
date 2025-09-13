@@ -47,14 +47,14 @@
 - title: Press
   type: list
   contents:
-    - "<a href='https://www.jpost.com/special-content/leading-computer-science-expert-avinash-madasu-recounts-his-formative-experiences-in-the-field-749910#google_vignette' style='color: pink;'><strong>The Jerusalem Post</strong></a>"
-    - "<a href='https://analyticsindiamag.com/ai-highlights/this-indian-has-cracked-multilingual-multimodal/' style='color: pink;'><strong>Analytics India Magazine</strong></a>"
-    - "<a href='https://www.outlookindia.com/topic/avinash-madasu' style='color: pink;'><strong>Outlook India</strong></a>"
+    - "<a href='https://www.jpost.com/special-content/leading-computer-science-expert-avinash-madasu-recounts-his-formative-experiences-in-the-field-749910#google_vignette'  style='font-weight: bold; color: #ff69b4;'>The Jerusalem Post</a>"
+    - "<a href='https://analyticsindiamag.com/ai-highlights/this-indian-has-cracked-multilingual-multimodal/'  style='font-weight: bold; color: #ff69b4;'>Analytics India Magazine</a>"
+    - "<a href='https://www.outlookindia.com/topic/avinash-madasu'  style='font-weight: bold; color: #ff69b4;'>Outlook India</a>"
 
 - title: Honors and Awards
   type: list
   contents:
     - "<a href='https://2023.aclweb.org/reviewers/' style='font-weight: bold; color: #ff69b4;'>Outstanding reviewer - ACL 2023</a>"
-    - Best Student Paper Award - ECIR 2023
+    - "<a href='https://link.springer.com/collections/gdcfbcccfe' style='font-weight: bold; color: #ff69b4;'>Best Student Paper Award - ECIR 2023</a>"
     - Samsung Citizen Award 2019, 2020 (Research) (4/9000)
     - ACM grant to attend ACM Multimedia 2022 conference
