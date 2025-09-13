@@ -47,9 +47,9 @@
 - title: Press
   type: list
   contents:
-    - <a href="https://www.jpost.com/special-content/leading-computer-science-expert-avinash-madasu-recounts-his-formative-experiences-in-the-field-749910#google_vignette" style="color: pink;"><strong>The Jerusalem Post</strong></a>
-    - <a href="https://analyticsindiamag.com/ai-highlights/this-indian-has-cracked-multilingual-multimodal/" style="color: pink;"><strong>Analytics India Magazine</strong></a>
-    - <a href="https://www.outlookindia.com/topic/avinash-madasu" style="color: pink;"><strong>Outlook India</strong></a>
+    - "<a href='https://www.jpost.com/special-content/leading-computer-science-expert-avinash-madasu-recounts-his-formative-experiences-in-the-field-749910#google_vignette' style='color: pink;'><strong>The Jerusalem Post</strong></a>"
+    - "<a href='https://analyticsindiamag.com/ai-highlights/this-indian-has-cracked-multilingual-multimodal/' style='color: pink;'><strong>Analytics India Magazine</strong></a>"
+    - "<a href='https://www.outlookindia.com/topic/avinash-madasu' style='color: pink;'><strong>Outlook India</strong></a>"
 
 - title: Honors and Awards
   type: list
