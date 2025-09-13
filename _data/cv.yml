@@ -45,10 +45,9 @@
       title: ICLR - MoFo 2023, ICLR - MRL 2023, SocialNLP
     
 - title: Honors and Awards
-  type: nested_list
+  type: list
   contents:
-    - items:
-      - "[Outstanding reviewer - ACL 2023](https://2023.aclweb.org/reviewers/)"
-      - Best Student Paper Award - ECIR 2023
-      - Samsung Citizen Award 2019, 2020 (Research) (4/9000)
-      - ACM grant to attend ACM Multimedia 2022 conference
+    - <a href="https://2023.aclweb.org/reviewers/">Outstanding reviewer - ACL 2023</a>
+    - Best Student Paper Award - ECIR 2023
+    - Samsung Citizen Award 2019, 2020 (Research) (4/9000)
+    - ACM grant to attend ACM Multimedia 2022 conference
