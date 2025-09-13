@@ -34,17 +34,16 @@
       year: July 2017 - May 2018
 
 - title: Reviewer Experience
-  type: time_table
+  type: nested_list
   contents:
-    - year: Conferences
-    - contents: 
-      -  COLM 2024, CVPR 2024, ICLR 2024, AAAI 2024, EMNLP 2023, AMLC 2023, NeurIPS 2023, BMVC 2023, 
-          CoLLA 2023, ACL 2023, CVPR 2023, EACL 2023, ACL 2022, ACL 2021, ICON 2020
-    - year: Journals
-    - contents: 
-        - Machine learning, TMLR, Computer Speech & Language
-    - year: Workshops
-    - contents: 
+    - title: Conferences
+      items:
+        - COLM 2024, CVPR 2024, ICLR 2024, AAAI 2024, EMNLP 2023, AMLC 2023, NeurIPS 2023, BMVC 2023, CoLLA 2023, ACL 2023, CVPR 2023, EACL 2023, ACL 2022, ACL 2021, ICON 2020
+    - title: Journals
+      items:
+        - Machine Learning, TMLR, Computer Speech & Language, ACL ARR
+    - title: Workshops
+      items:
         - ICLR - MoFo 2023, ICLR - MRL 2023, SocialNLP
 
 - title: Press
