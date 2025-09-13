@@ -13,25 +13,25 @@
   contents:
     - title: AI Research Scientist
       institution: Intel Labs
-      year: June 2023 - present
+      year: Jun 2023 - present
     - title: Research intern
       institution: Intel Labs
-      year: May 2022 - Aug 2022
+      year: May - Aug 2022
     - title: Graduate Research Assistant
       institution: UNC Chapel Hill
-      year: August 2021 - May 2023
+      year: Aug 2021 - May 2023
     - title: Graduate Research Assistant
       institution: UNC Chapel Hill
-      year: August 2021 - November 2021
-    - title: Senior Software Enginee
+      year: Aug - Nov 2021
+    - title: Senior Software Engineer
       institution: Samsung R&D Institute India - Bangalore
-      year: June 2018 - July 2021
+      year: Jun 2018 - Jul 2021
     - title: Research Assistant
       institution: IIT Patna
-      year: July 2020 - January 2021
+      year: Jul 2020 - Jan 2021
     - title: Research Assistant
       institution: National Institute of Technology, Tiruchirappalli
-      year: July 2017 - May 2018
+      year: Jul 2017 - May 2018
 
 - title: Reviewer Experience
   type: nested_list
