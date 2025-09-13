@@ -43,11 +43,18 @@
       title: Machine learning, TMLR, Computer Speech & Language
     - Year: Workshops
       title: ICLR - MoFo 2023, ICLR - MRL 2023, SocialNLP
-    
+
+- title: Press
+  type: list
+  contents:
+    - <a href="https://www.jpost.com/special-content/leading-computer-science-expert-avinash-madasu-recounts-his-formative-experiences-in-the-field-749910#google_vignette"><strong>The Jerusalem Post</strong></a>
+    - <a href="https://analyticsindiamag.com/ai-highlights/this-indian-has-cracked-multilingual-multimodal/"><strong>Analytics India Magazine</strong></a>
+    - <a href="https://www.outlookindia.com/topic/avinash-madasu"><strong>Outlook India</strong></a>
+
 - title: Honors and Awards
   type: list
   contents:
-    - <a href="https://2023.aclweb.org/reviewers/">Outstanding reviewer - ACL 2023</a>
+    - <a href="https://2023.aclweb.org/reviewers/"><strong>Outstanding reviewer - ACL 2023</strong></a>
     - Best Student Paper Award - ECIR 2023
     - Samsung Citizen Award 2019, 2020 (Research) (4/9000)
     - ACM grant to attend ACM Multimedia 2022 conference
