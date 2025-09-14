@@ -31,9 +31,9 @@ I was a senior engineer at Samsung R & D Institute India - Bangalore, for 3 year
 I am interested in contributing to open source frameworks that empower neural networks. I was also a member of [Distributed Deep Machine Learning Community](https://github.com/dmlc") and reviewer of [gluonnlp](https://nlp.gluon.ai/), Amazon's NLP library.
 
 <div style="text-align: center; margin: 20px 0;">
-  <a href="mailto:avinashmadasu17@gmail.com">Email</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://scholar.google.com/citations?user=YRe0ruYAAAAJ&hl=en">Google Scholar</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://avinashsai.github.io/assets/pdf/Resume_Extended.pdf">Resume</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/avinash-madasu-623b1a12a/">LinkedIn</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://github.com/avinashsai">GitHub</a>
+  <a href="mailto:avinashmadasu17@gmail.com" style="display: inline-block; padding: 10px 18px; margin: 6px; background-color: #f8f9fa; border-radius: 10px; text-decoration: none; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">Email</a>
+  <a href="https://scholar.google.com/citations?user=YRe0ruYAAAAJ&hl=en" style="display: inline-block; padding: 10px 18px; margin: 6px; background-color: #f8f9fa; border-radius: 10px; text-decoration: none; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">Google Scholar</a>
+  <a href="https://avinashsai.github.io/assets/pdf/Resume_Extended.pdf" style="display: inline-block; padding: 10px 18px; margin: 6px; background-color: #f8f9fa; border-radius: 10px; text-decoration: none; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">Resume</a>
+  <a href="https://www.linkedin.com/in/avinash-madasu-623b1a12a/" style="display: inline-block; padding: 10px 18px; margin: 6px; background-color: #f8f9fa; border-radius: 10px; text-decoration: none; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">LinkedIn</a>
+  <a href="https://github.com/avinashsai" style="display: inline-block; padding: 10px 18px; margin: 6px; background-color: #f8f9fa; border-radius: 10px; text-decoration: none; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">GitHub</a>
 </div>
