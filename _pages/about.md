@@ -31,13 +31,13 @@ I was a senior engineer at Samsung R & D Institute India - Bangalore, for 3 year
 I am interested in contributing to open source frameworks that empower neural networks. I was also a member of [Distributed Deep Machine Learning Community](https://github.com/dmlc") and reviewer of [gluonnlp](https://nlp.gluon.ai/), Amazon's NLP library.
 
 <div style="text-align: center; margin: 20px 0;">
-  <a href="mailto:avinashmadasu17@gmail.com" style="display: inline-block; padding: 10px 18px; margin: 8px; background-color: #e3f2fd; border-radius: 10px; text-decoration: none; box-shadow: 0 2px 4px rgba(0,0,0,0.1); color: #1565c0;">Email</a>
-  <span style="margin: 0 10px; color: #666;">|</span>
-  <a href="https://scholar.google.com/citations?user=YRe0ruYAAAAJ&hl=en" style="display: inline-block; padding: 10px 18px; margin: 8px; background-color: #f3e5f5; border-radius: 10px; text-decoration: none; box-shadow: 0 2px 4px rgba(0,0,0,0.1); color: #7b1fa2;">Google Scholar</a>
-  <span style="margin: 0 10px; color: #666;">|</span>
-  <a href="https://avinashsai.github.io/assets/pdf/Resume_Extended.pdf" style="display: inline-block; padding: 10px 18px; margin: 8px; background-color: #e8f5e8; border-radius: 10px; text-decoration: none; box-shadow: 0 2px 4px rgba(0,0,0,0.1); color: #2e7d32;">Resume</a>
-  <span style="margin: 0 10px; color: #666;">|</span>
-  <a href="https://www.linkedin.com/in/avinash-madasu-623b1a12a/" style="display: inline-block; padding: 10px 18px; margin: 8px; background-color: #e3f2fd; border-radius: 10px; text-decoration: none; box-shadow: 0 2px 4px rgba(0,0,0,0.1); color: #0077b5;">LinkedIn</a>
-  <span style="margin: 0 10px; color: #666;">|</span>
-  <a href="https://github.com/avinashsai" style="display: inline-block; padding: 10px 18px; margin: 8px; background-color: #f5f5f5; border-radius: 10px; text-decoration: none; box-shadow: 0 2px 4px rgba(0,0,0,0.1); color: #333;">GitHub</a>
+  <a href="mailto:avinashmadasu17@gmail.com" style="display: inline-block; padding: 10px 18px; margin: 6px; background-color: #e3f2fd; border-radius: 10px; text-decoration: none; box-shadow: 0 2px 4px rgba(0,0,0,0.1); color: #1565c0;">Email</a>
+  <span style="margin: 0 5px; color: #666;">|</span>
+  <a href="https://scholar.google.com/citations?user=YRe0ruYAAAAJ&hl=en" style="display: inline-block; padding: 10px 18px; margin: 6px; background-color: #f3e5f5; border-radius: 10px; text-decoration: none; box-shadow: 0 2px 4px rgba(0,0,0,0.1); color: #7b1fa2;">Google Scholar</a>
+  <span style="margin: 0 5px; color: #666;">|</span>
+  <a href="https://avinashsai.github.io/assets/pdf/Resume_Extended.pdf" style="display: inline-block; padding: 10px 18px; margin: 6px; background-color: #e8f5e8; border-radius: 10px; text-decoration: none; box-shadow: 0 2px 4px rgba(0,0,0,0.1); color: #2e7d32;">Resume</a>
+  <span style="margin: 0 5px; color: #666;">|</span>
+  <a href="https://www.linkedin.com/in/avinash-madasu-623b1a12a/" style="display: inline-block; padding: 10px 18px; margin: 6px; background-color: #e3f2fd; border-radius: 10px; text-decoration: none; box-shadow: 0 2px 4px rgba(0,0,0,0.1); color: #0077b5;">LinkedIn</a>
+  <span style="margin: 0 5px; color: #666;">|</span>
+  <a href="https://github.com/avinashsai" style="display: inline-block; padding: 10px 18px; margin: 6px; background-color: #f5f5f5; border-radius: 10px; text-decoration: none; box-shadow: 0 2px 4px rgba(0,0,0,0.1); color: #333;">GitHub</a>
 </div>
