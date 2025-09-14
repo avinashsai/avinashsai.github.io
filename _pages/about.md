@@ -30,4 +30,10 @@ I was a senior engineer at Samsung R & D Institute India - Bangalore, for 3 year
 
 I am interested in contributing to open source frameworks that empower neural networks. I was also a member of [Distributed Deep Machine Learning Community](https://github.com/dmlc") and reviewer of [gluonnlp](https://nlp.gluon.ai/), Amazon's NLP library.
 
-[Email](avinashmadasu17@gmail.com) | [Google Scholar](https://scholar.google.com/citations?user=YRe0ruYAAAAJ) | [Resume](https://avinashsai.github.io/assets/pdf/Resume_Extended.pdf) | [LinkedIN](https://www.linkedin.com/in/avinash-madasu-623b1a12a/) | [GitHub](https://github.com/avinashsai)
+<div style="text-align: center;">
+  <a href="avinashmadasu17@gmail.com">Email</a> | 
+  <a href="https://scholar.google.com/citations?user=YRe0ruYAAAAJ&hl=en">Google Scholar</a> | 
+  <a href="https://avinashsai.github.io/assets/pdf/Resume_Extended.pdf">Resume</a> | 
+  <a href="https://www.linkedin.com/in/avinash-madasu-623b1a12a/">LinkedIn</a> | 
+  <a href="https://github.com/avinashsai">GitHub</a>
+</div>
