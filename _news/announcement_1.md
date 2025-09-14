@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-19
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+[Paper](https://arxiv.org/abs/2503.11103) accepted to [ICML Actionable Interpretability Workshop](https://actionable-interpretability.github.io/)
