@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2025-08
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+[Paper](https://arxiv.org/abs/2503.11103) accepted at [EMNLP 2025](https://2025.emnlp.org/).
