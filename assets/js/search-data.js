@@ -401,12 +401,10 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-presented-two-papers-at-cvpr-2025",
+          title: 'Presented two papers at CVPR 2025.',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-paper-accepted-at-emnlp-2025",
+          section: "News",},{id: "news-paper-accepted-at-emnlp-2025",
           title: 'Paper accepted at EMNLP 2025.',
           description: "",
           section: "News",},{id: "projects-project-1",
