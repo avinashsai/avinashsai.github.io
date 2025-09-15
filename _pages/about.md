@@ -24,9 +24,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a staff research scientist at Intel AI Labs working on multi-modal AI. I graduated from  [University of North Carolina, Chapel Hill](https://www.unc.edu/) with a Master in Computer Science advised by [Prof. Gedas Bertasius](https://www.gedasbertasius.com/)  While at UNC, my research focused on multi-modal AI.
+I am a Staff Research Scientist at [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html) working on multi-modal, safe and responsible AI. I graduated from  [University of North Carolina, Chapel Hill](https://www.unc.edu/) with a Master in Computer Science advised by [Prof. Gedas Bertasius](https://www.gedasbertasius.com/)  While at UNC, my research focused on multi-modal AI.
 
-I was a senior engineer at Samsung R & D Institute India - Bangalore, for 3 years where I worked on Bixby (Samsung's voice assistant). My job was to design NLU models to help improve Bixby. I had the opportunity to work under [Prof. Asif Eqbal](https://www.asifekbal.com/) on multi-modal dialog systems. I graduated from [National Institute of Technology Tiruchirappalli](https://www.nitt.edu/) with Bachelors in Computer Science. While pursuing UG studies, I worked closely with [Prof. Sivasankar](https://www.nitt.edu/home/academics/departments/cse/faculty/sivas/) on statistical feature extraction techniques for sentiment analysis.
+I was a Senior Engineer at [Samsung Bangalore](https://research.samsung.com/sri-b), for 3 years where I worked on Bixby (Samsung's voice assistant). My job was to design NLU models to help improve Bixby. I had the opportunity to work under [Prof. Asif Eqbal](https://www.asifekbal.com/) on multi-modal dialog systems. I graduated from [National Institute of Technology Tiruchirappalli](https://www.nitt.edu/) with Bachelors in Computer Science. While pursuing UG studies, I worked closely with [Prof. Sivasankar](https://www.nitt.edu/home/academics/departments/cse/faculty/sivas/) on statistical feature extraction techniques for sentiment analysis.
 
 I am interested in contributing to open source frameworks that empower neural networks. I was also a member of [Distributed Deep Machine Learning Community](https://github.com/dmlc") and reviewer of [gluonnlp](https://nlp.gluon.ai/), Amazon's NLP library.
 
