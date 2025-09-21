@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Paper](https://arxiv.org/abs/2503.11103) accepted at [EMNLP 2025](https://2025.emnlp.org/).
+[Paper](https://arxiv.org/abs/2503.11103) accepted at [EMNLP 2025](https://2025.emnlp.org/). Recommended oral presentation (Top 5% of papers) by  Senior Area Chair.
