@@ -398,10 +398,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-presented-two-papers-at-cvpr-2025",
-          title: 'Presented two papers at CVPR 2025.',
-          description: "",
-          section: "News",},{id: "news-paper-accepted-at-emnlp-2025-recommended-oral-presentation-top-5-of-papers-by-senior-area-chair",
+            },},{id: "news-paper-accepted-at-emnlp-2025-recommended-oral-presentation-top-5-of-papers-by-senior-area-chair",
           title: 'Paper accepted at EMNLP 2025. Recommended oral presentation (Top 5% of papers) by...',
           description: "",
           section: "News",},{id: "news-paper-accepted-at-aaai-2026",
@@ -409,6 +406,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-paper-accepted-at-iclr-2026",
           title: 'Paper accepted at ICLR 2026.',
+          description: "",
+          section: "News",},{id: "news-best-reviewer-award-top-5-at-cvpr-2026",
+          title: 'Best reviewer award (top 5%) at CVPR 2026.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
